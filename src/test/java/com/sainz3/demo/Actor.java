@@ -47,4 +47,3 @@ public class Actor {
         this.headshot = headshot;
     }
 }
-
